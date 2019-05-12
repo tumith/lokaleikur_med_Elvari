@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9fed87d415265b24ca008a3f333b73d5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - enemyDeathEffect: {instanceID: 0}
+  - impactEffact: {fileID: 8338831400115241274, guid: 04351dba3a0dec54cae089513b3ab54f,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
